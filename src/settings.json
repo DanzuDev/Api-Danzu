@@ -1,13 +1,13 @@
 {
-  "name": "Skyzopedia Api",
+  "name": "DanzuDev Api",
   "version": "v3.0.0",
-  "description": "Simple and easy to use API for WhatsApp Bot feature.",
+  "description": "Simple dan Mudah di gunakan untuk banyak hal!.",
   "header": {
-    "status": "Active!"
+    "status": "Aktif!"
   },
   "apiSettings": {
-    "creator": "Skyzopedia", 
-    "apikey": ["new2025"]
+    "creator": "DanzuDev", 
+    "apikey": ["mclpt"]
   },
   "links": [
     {
@@ -349,7 +349,12 @@
           "name": "Status Api",
           "desc": "",
           "path": "/api/status"
-        }                        
+        },
+        {
+          "name": "Status Api",
+          "desc": "",
+          "path": "/api/getcode?player="
+        }
       ]
     }               
   ]
