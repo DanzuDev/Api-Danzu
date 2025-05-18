@@ -349,6 +349,16 @@
           "name": "Status Api",
           "desc": "",
           "path": "/api/status"
+        },
+        {
+          "name": "Ambil Kode",
+          "desc": "Mengambil Kode",
+          "path"; "/api/getcode?player=Zack"
+        },
+        {
+          "name": "Tambah Kode",
+          "desc": "Menambah Kode",
+          "path": "/api/tambahkode"
         }
       ]
     }               
