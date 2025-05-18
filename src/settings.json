@@ -349,16 +349,6 @@
           "name": "Status Api",
           "desc": "",
           "path": "/api/status"
-        },
-        {
-          "name": "Ambil Kode Redeem",
-          "desc": "Mengambil Kode Redeem Player",
-          "path": "/api/getcode?player=Zack"
-        },
-        {
-          "name": "Tambahkan Kode Redeem",
-          "desc": "Menambahkan kode redeem Player",
-          "path": "/api/tambahkode"
         }
       ]
     }               
